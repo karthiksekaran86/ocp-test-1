@@ -1,2 +1,5 @@
 
-/target
+/target/classes
+/target/maven-archiver
+/target/maven-status
+target/ocp-test-1-1.jar.original
